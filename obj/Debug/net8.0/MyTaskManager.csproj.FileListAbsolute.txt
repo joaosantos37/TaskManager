@@ -1,0 +1,14 @@
+/Users/joaosantos/Desktop/Taskmanager/MyTaskManager/bin/Debug/net8.0/MyTaskManager
+/Users/joaosantos/Desktop/Taskmanager/MyTaskManager/bin/Debug/net8.0/MyTaskManager.deps.json
+/Users/joaosantos/Desktop/Taskmanager/MyTaskManager/bin/Debug/net8.0/MyTaskManager.runtimeconfig.json
+/Users/joaosantos/Desktop/Taskmanager/MyTaskManager/bin/Debug/net8.0/MyTaskManager.dll
+/Users/joaosantos/Desktop/Taskmanager/MyTaskManager/bin/Debug/net8.0/MyTaskManager.pdb
+/Users/joaosantos/Desktop/Taskmanager/MyTaskManager/obj/Debug/net8.0/MyTaskManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaosantos/Desktop/Taskmanager/MyTaskManager/obj/Debug/net8.0/MyTaskManager.AssemblyInfoInputs.cache
+/Users/joaosantos/Desktop/Taskmanager/MyTaskManager/obj/Debug/net8.0/MyTaskManager.AssemblyInfo.cs
+/Users/joaosantos/Desktop/Taskmanager/MyTaskManager/obj/Debug/net8.0/MyTaskManager.csproj.CoreCompileInputs.cache
+/Users/joaosantos/Desktop/Taskmanager/MyTaskManager/obj/Debug/net8.0/MyTaskManager.dll
+/Users/joaosantos/Desktop/Taskmanager/MyTaskManager/obj/Debug/net8.0/refint/MyTaskManager.dll
+/Users/joaosantos/Desktop/Taskmanager/MyTaskManager/obj/Debug/net8.0/MyTaskManager.pdb
+/Users/joaosantos/Desktop/Taskmanager/MyTaskManager/obj/Debug/net8.0/MyTaskManager.genruntimeconfig.cache
+/Users/joaosantos/Desktop/Taskmanager/MyTaskManager/obj/Debug/net8.0/ref/MyTaskManager.dll
